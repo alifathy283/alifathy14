@@ -1,2 +1,0 @@
-# alifathy14
-hackerrank
